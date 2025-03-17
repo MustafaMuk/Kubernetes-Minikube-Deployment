@@ -1,4 +1,4 @@
-Kubernetes Minikube Deployment
+Kubernetes Minikube Deployment -
 This repository contains Kubernetes configurations for deploying an Nginx web server on Minikube. The goal is to understand container orchestration, scaling, and service exposure using Kubernetes.
 
 📌 Project Overview
